@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-janhaviprof--bot.github.io-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white)](https://janhaviprof-bot.github.io/Portfolio.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janhavi-gaikwad-a200a0125/)
-[![Email](https://img.shields.io/badge/Email-janhavigaikwad17@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janhavigaikwad17@gmail.com)
+[![Email](https://img.shields.io/badge/Email-janhavi.prog@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janhavi.prog@gmail.com)
 
 </div>
 
