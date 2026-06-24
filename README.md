@@ -2,7 +2,7 @@
 
 # Hi, I'm Janhavi Gaikwad
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Systems+Engineer+%7C+M.Eng.+Cornell+%7C+ASEP;MBSE%2C+Simulation+%26+Controls;C%2B%2B+%7C+Python+%7C+MATLAB+%7C+ANSYS+%7C+SysML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Systems+Engineer+%7C+M.Eng.+Cornell+%7C+ASEP;MBSE%2C+Simulation+%26+Controls;Python+%7C+R+%7C+MATLAB+%7C+Shiny)](https://git.io/typing-svg)
 
 **I help teams make better design decisions for complex systems.**
 
@@ -37,24 +37,34 @@ The work I like best is **system-level**, where a bad model leads to a bad decis
 
 ## Experience
 
-| Role | Highlights |
-|:-----|:-----------|
-| **Honeywell** · System Engineer · Jan 2024 – Jul 2025 | 0D gas-turbine C++ (300+ hrs productivity); 3D map UI; surge/stall ML POC; 95%+ say-do in Agile |
-| **Entuple (ANSYS)** · CFD Engineer · Aug 2022 – Jan 2024 | 20+ Fluent trainings (~40% proficiency lift, 4.8/5); 50+ clients; ICPHD'23 keynote |
-| **HAL** · Apprentice Trainee · Aug 2021 – Aug 2022 | System ID on FDR data; under 1% lift/drag error; ANSYS & CFD++ aerodynamic validation |
-| **IIT Madras** · Summer Research Fellow · 2019 | 95%+ reduction in CFD preprocessing time (600K-element meshes, optimized FORTRAN) |
+<table>
+<thead>
+<tr><th>Role</th><th>Highlights</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>Honeywell</strong> · System Engineer · Jan 2024 – Jul 2025</td><td>0D gas-turbine C++ (300+ hrs productivity); 3D map UI; surge/stall ML POC; 95%+ say-do in Agile</td></tr>
+<tr><td><strong>Entuple (ANSYS)</strong> · CFD Engineer · Aug 2022 – Jan 2024</td><td>20+ Fluent trainings (~40% proficiency lift, 4.8/5); 50+ clients; ICPHD'23 keynote</td></tr>
+<tr><td><strong>HAL</strong> · Apprentice Trainee · Aug 2021 – Aug 2022</td><td>System ID on FDR data; under 1% lift/drag error; ANSYS and CFD++ aerodynamic validation</td></tr>
+<tr><td><strong>IIT Madras</strong> · Summer Research Fellow · 2019</td><td>95%+ reduction in CFD preprocessing time (600K-element meshes, optimized FORTRAN)</td></tr>
+</tbody>
+</table>
 
 ---
 
 ## Featured repositories
 
-| Repository | What it is |
-|:-----------|:-----------|
-| [**SupplyMindAI**](https://github.com/janhaviprof-bot/SupplyMindAI) | Hackathon-built supply chain dashboard — agentic AI proposes, your data verifies via simulation |
-| [**SystemsArchitecture**](https://github.com/janhaviprof-bot/SystemsArchitecture) | Hybrid-electric GA aircraft — SysML, DSM, 184K+ configs, Pareto / NSGA-II tradespace |
-| [**DS AI for Systems Eng Project**](https://github.com/janhaviprof-bot/DS-AIforSystemsEng-Project) | Multi-agent news intelligence pipeline (Signal Studio) |
-| [**DS AI for Systems Eng**](https://github.com/janhaviprof-bot/DS-AIforSystemsEng) | Data Science & AI for Systems Engineering coursework |
-| [**AIforSystemsEng**](https://github.com/janhaviprof-bot/AIforSystemsEng) | Systems engineering + data science foundations |
+<table>
+<thead>
+<tr><th>Repository</th><th>What it is</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://github.com/janhaviprof-bot/SupplyMindAI"><strong>SupplyMindAI</strong></a></td><td>Hackathon-built supply chain dashboard — agentic AI proposes, your data verifies via simulation</td></tr>
+<tr><td><a href="https://github.com/janhaviprof-bot/SystemsArchitecture"><strong>SystemsArchitecture</strong></a></td><td>Hybrid-electric GA aircraft — SysML, DSM, 184K+ configs, Pareto / NSGA-II tradespace</td></tr>
+<tr><td><a href="https://github.com/janhaviprof-bot/DS-AIforSystemsEng-Project"><strong>DS AI for Systems Eng Project</strong></a></td><td>Multi-agent news intelligence pipeline (Signal Studio)</td></tr>
+<tr><td><a href="https://github.com/janhaviprof-bot/DS-AIforSystemsEng"><strong>DS AI for Systems Eng</strong></a></td><td>Data Science and AI for Systems Engineering coursework</td></tr>
+<tr><td><a href="https://github.com/janhaviprof-bot/AIforSystemsEng"><strong>AIforSystemsEng</strong></a></td><td>Systems engineering and data science foundations</td></tr>
+</tbody>
+</table>
 
 ---
 
@@ -67,28 +77,20 @@ The work I like best is **system-level**, where a bad model leads to a bad decis
 
 ---
 
-## Tech stack
+## Skills in my repositories
 
-**Systems & simulation**
+Languages and tools detected across my public GitHub repos:
 
-![MBSE](https://img.shields.io/badge/MBSE-SysML%20%7C%20Cameo-2563EB?style=flat-square)
-![Simulink](https://img.shields.io/badge/Simulink-MATLAB-0076A8?style=flat-square)
-![ANSYS](https://img.shields.io/badge/ANSYS-Fluent%20%7C%20CFD-FFB71B?style=flat-square)
-![Digital Twin](https://img.shields.io/badge/Digital_Twin-Unity%20%7C%20C%23-5C6BC0?style=flat-square)
-![Controls](https://img.shields.io/badge/Controls-Feedback%20%7C%20EKF-5C6BC0?style=flat-square)
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-
-**AI & apps**
-
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-Tool%20Calling-8B5CF6?style=flat-square)
-![Shiny](https://img.shields.io/badge/Shiny-Posit%20Connect-178CC8?style=flat-square)
-![Supabase](https://img.shields.io/badge/Supabase-SQL-3ECF8E?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Shiny](https://img.shields.io/badge/Shiny_for_Python-178CC8?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
