@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-janhaviprof--bot.github.io-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white)](https://janhaviprof-bot.github.io/Portfolio.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janhavi-gaikwad-a200a0125/)
-[![Email](https://img.shields.io/badge/Email-janhavi.prog@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janhavi.prog@gmail.com)
+[![Email](https://img.shields.io/badge/Email-janhavi.prof@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janhavi.prof@gmail.com)
 
 </div>
 
@@ -34,11 +34,10 @@ I work across **MBSE**, **tradespace analysis**, **controls & estimation**, and 
 
 | Repository | What it is |
 |------------|------------|
-| [**Portfolio.github.io**](https://github.com/janhaviprof-bot/Portfolio.github.io) | Interactive portfolio — MBSE, controls, digital twin, and AI project demos |
 | [**SupplyMindAI**](https://github.com/janhaviprof-bot/SupplyMindAI) | Supply chain intelligence dashboard with agentic AI and simulation-backed recommendations |
 | [**SystemsArchitecture**](https://github.com/janhaviprof-bot/SystemsArchitecture) | Hybrid-electric GA aircraft — SysML architecture, DSM, Pareto / NSGA-II tradespace |
-| [**DS-AIforSystemsEng-Project**](https://github.com/janhaviprof-bot/DS-AIforSystemsEng-Project) | Team capstone — multi-agent news intelligence pipeline (Signal Studio) |
-| [**DS-AIforSystemsEng**](https://github.com/janhaviprof-bot/DS-AIforSystemsEng) | Data Science & AI for Systems Engineering coursework |
+| [**DS AI for Systems Eng Project**](https://github.com/janhaviprof-bot/DS-AIforSystemsEng-Project) | Team capstone — multi-agent news intelligence pipeline (Signal Studio) |
+| [**DS AI for Systems Eng**](https://github.com/janhaviprof-bot/DS-AIforSystemsEng) | Data Science & AI for Systems Engineering coursework |
 | [**AIforSystemsEng**](https://github.com/janhaviprof-bot/AIforSystemsEng) | Systems engineering + data science foundations |
 
 ---
