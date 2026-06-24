@@ -1,15 +1,16 @@
 <div align="center">
 
-# Hi, I'm Janhavi Gaikwad
+# Janhavi Gaikwad
+
+**janhaviprof-bot** · Open to work · United States
+
+*I help teams make better design decisions for complex systems.*
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Systems+Engineer+%7C+M.Eng.+Cornell+%7C+ASEP;MBSE%2C+Simulation+%26+Controls;Python+%7C+R+%7C+MATLAB+%7C+Shiny)](https://git.io/typing-svg)
-
-**I help teams make better design decisions for complex systems.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-janhaviprof--bot.github.io-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white)](https://janhaviprof-bot.github.io/Portfolio.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janhavi-gaikwad-a200a0125/)
 [![Email](https://img.shields.io/badge/Email-janhavi.prof@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janhavi.prof@gmail.com)
-[![Open to work](https://img.shields.io/badge/Open_to_work-United_States-22C55E?style=for-the-badge)](https://www.linkedin.com/in/janhavi-gaikwad-a200a0125/)
 
 </div>
 
@@ -17,84 +18,80 @@
 
 ## About
 
-I work at the intersection of **modeling, simulation, and engineering systems**.
+I'm a **Systems Engineer** with hands-on experience across propulsion modeling, CFD, MBSE, and simulation-backed decision support — from 0D engine software to SysML architecture and agentic dashboards.
 
-**M.Eng. Systems Engineering, Cornell** (GPA **4.12/4.3**, **INCOSE ASEP**, May 2026) · **4+ years** across propulsion software at Honeywell, aerodynamic analysis at HAL, and CFD consulting for aerospace and automotive clients.
+### ✈️ Honeywell — System Engineer
+- Built **0D gas-turbine performance algorithms in C++** that delivered **300+ hours** of engineering productivity gain
+- Cut simulation setup time by **~5 min per run** with UI-based 3D performance map visualization
+- Developed POC ML models for **UAM route optimization** and **compressor surge/stall prediction**
+- Maintained **>95% say-do ratio** in global Agile delivery across propulsion modeling features
 
-**Some of what I have shipped:**
+### 🌊 Entuple (ANSYS) — CFD Application Engineer
+- Improved simulation proficiency by **~40%** for **500+ engineers** through **20+ ANSYS Fluent** training programs (4.8/5 satisfaction)
+- Served as primary technical interface for **50+ aerospace and automotive clients**
+- Delivered **10+ POC CFD models** and a keynote at **ICPHD'23 (IIT Guwahati)** on green-energy simulation
 
-- **0D gas-turbine algorithms in C++** — 300+ hours of productivity gain at Honeywell
-- **MATLAB system identification** — aerodynamic coefficients within 1% error from flight data at HAL
-- **SysML architecture** for a hybrid-electric aircraft — 184,000+ configurations evaluated with genetic algorithms and Pareto optimization
+### 🛩️ Hindustan Aeronautics — Apprentice Trainee
+- Achieved **<1% error** in lift/drag predictions with **MATLAB/Simulink system identification** on flight data recorder data
+- Performed comparative **ANSYS** and **CFD++** aerodynamic validation on aircraft and airfoil geometries
 
-The work I like best is **system-level**, where a bad model leads to a bad decision.
-
-**Strengths:** MBSE · feedback control · simulation validation · structured trade analysis
-
-**Open to** systems engineering, controls, and modeling roles in **aerospace, automotive, semiconductor, and energy** — on-site, hybrid, or remote across the **United States**.
-
----
-
-## Experience
-
-<table>
-<thead>
-<tr><th>Role</th><th>Highlights</th></tr>
-</thead>
-<tbody>
-<tr><td><strong>Honeywell</strong> · System Engineer · Jan 2024 – Jul 2025</td><td>0D gas-turbine C++ (300+ hrs productivity); 3D map UI; surge/stall ML POC; 95%+ say-do in Agile</td></tr>
-<tr><td><strong>Entuple (ANSYS)</strong> · CFD Engineer · Aug 2022 – Jan 2024</td><td>20+ Fluent trainings (~40% proficiency lift, 4.8/5); 50+ clients; ICPHD'23 keynote</td></tr>
-<tr><td><strong>HAL</strong> · Apprentice Trainee · Aug 2021 – Aug 2022</td><td>System ID on FDR data; under 1% lift/drag error; ANSYS and CFD++ aerodynamic validation</td></tr>
-<tr><td><strong>IIT Madras</strong> · Summer Research Fellow · 2019</td><td>95%+ reduction in CFD preprocessing time (600K-element meshes, optimized FORTRAN)</td></tr>
-</tbody>
-</table>
+### 🎓 M.Eng. Systems Engineering, Cornell · **ASEP** · GPA **4.12/4.3** · May 2026
 
 ---
 
-## Featured repositories
+## Tech Stack
 
-<table>
-<thead>
-<tr><th>Repository</th><th>What it is</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://github.com/janhaviprof-bot/SupplyMindAI"><strong>SupplyMindAI</strong></a></td><td>Hackathon-built supply chain dashboard — agentic AI proposes, your data verifies via simulation</td></tr>
-<tr><td><a href="https://github.com/janhaviprof-bot/SystemsArchitecture"><strong>SystemsArchitecture</strong></a></td><td>Hybrid-electric GA aircraft — SysML, DSM, 184K+ configs, Pareto / NSGA-II tradespace</td></tr>
-<tr><td><a href="https://github.com/janhaviprof-bot/DS-AIforSystemsEng-Project"><strong>DS AI for Systems Eng Project</strong></a></td><td>Multi-agent news intelligence pipeline (Signal Studio)</td></tr>
-<tr><td><a href="https://github.com/janhaviprof-bot/DS-AIforSystemsEng"><strong>DS AI for Systems Eng</strong></a></td><td>Data Science and AI for Systems Engineering coursework</td></tr>
-<tr><td><a href="https://github.com/janhaviprof-bot/AIforSystemsEng"><strong>AIforSystemsEng</strong></a></td><td>Systems engineering and data science foundations</td></tr>
-</tbody>
-</table>
+**Languages**  
+Python · R · MATLAB · JavaScript · HTML · CSS
 
----
+**Systems & simulation**  
+Jupyter · Shiny · MATLAB · Simulink · SysML · Cameo
 
-## Leadership & certifications
+**Data, cloud & tools**  
+Supabase · Docker · Git · Posit Connect
 
-- **INCOSE Student Chapter — Vice President** · Cornell · Sep 2025 – Present
-- **Eagle Student Forum — Technical Head** · PCE · Vaimanika competition (30 projects, 150 students)
-- **INCOSE ASEP** · Feb 2026
-- **Gas Turbine Engine Performance** · Honeywell Aerospace Technologies · Sep 2024
+**Techniques**  
+MBSE · Tradespace Analysis · Discrete-Event Simulation · Extended Kalman Filtering · Agentic AI · Tool Calling
 
 ---
 
-## Skills in my repositories
+## Featured Projects
 
-Languages and tools detected across my public GitHub repos:
+### 📦 [SupplyMindAI](https://github.com/janhaviprof-bot/SupplyMindAI)
+Supply chain intelligence dashboard built at Cornell's AI Systems Hackathon.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Shiny](https://img.shields.io/badge/Shiny_for_Python-178CC8?style=flat-square)
-![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+Agentic AI proposes improvements; **simulation on your historical data verifies ROI** before recommendations ship. Real-time shipment visibility, hub geography, and escalation paths.
+
+`Python` `Shiny` `Supabase` `Agentic AI`
+
+### ✈️ [SystemsArchitecture](https://github.com/janhaviprof-bot/SystemsArchitecture)
+Hybrid-electric general aviation aircraft — end-to-end systems architecture capstone.
+
+SysML functional and physical models, **19-component DSM**, reliability block diagrams, and **184,000+ configuration** enumeration with Pareto and genetic-algorithm tradespace analysis.
+
+`R` `Python` `SysML` `Tradespace`
+
+### 📰 [Signal Studio](https://github.com/janhaviprof-bot/DS-AIforSystemsEng-Project)
+Multi-agent news intelligence pipeline for busy readers.
+
+NYT headlines, AI summaries, cross-section narrative synthesis, and news-vs-market validation — deployed on Posit Connect.
+
+`Python` `Shiny` `Multi-Agent AI`
+
+### 🌐 [Portfolio](https://github.com/janhaviprof-bot/Portfolio.github.io)
+Interactive engineering portfolio — MBSE, controls, digital twin, and AI project demos.
+
+`HTML` `CSS` `JavaScript` `MATLAB`
 
 ---
 
-## GitHub stats
+## Contact
+
+[**GitHub**](https://github.com/janhaviprof-bot) · [**LinkedIn**](https://www.linkedin.com/in/janhavi-gaikwad-a200a0125/) · [**Email**](mailto:janhavi.prof@gmail.com) · [**Portfolio**](https://janhaviprof-bot.github.io/Portfolio.github.io/)
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -105,7 +102,7 @@ Languages and tools detected across my public GitHub repos:
 
 ---
 
-## Contribution graph
+## Snake Animation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janhaviprof-bot/janhaviprof-bot/output/github-contribution-grid-snake-dark.svg">
@@ -117,6 +114,6 @@ Languages and tools detected across my public GitHub repos:
 
 <div align="center">
 
-*Evaluation tells you what is better. Analysis reveals what drives better.*
+Built with ❤️ by **Janhavi Gaikwad**
 
 </div>
